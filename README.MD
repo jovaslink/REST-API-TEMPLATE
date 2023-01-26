@@ -1,8 +1,8 @@
-# JAM BACKEND
+# REST API TEMPLATE
 
 ---
 
-API REST SERVER
+NODE API REST SERVER
 
 ## Instalación
 
@@ -11,8 +11,8 @@ API REST SERVER
 Un pequeño instructivo de instalación.
 
 ```
-$ git clone https://github.com/jovaslink/RestAPI.git
-$ cd ../path/RestAPI
+$ git clone https://github.com/jovaslink/REST-API-TEMPLETE
+$ cd ../path/REST-API-TEMPLETE
 $ npm install
 $ node app.js
 ```
