@@ -11,8 +11,8 @@ NODE API REST SERVER
 Un pequeño instructivo de instalación.
 
 ```
-$ git clone https://github.com/jovaslink/REST-API-TEMPLETE
-$ cd ../path/REST-API-TEMPLETE
+$ git clone https://github.com/jovaslink/REST-API-TEMPLATE
+$ cd ../path/REST-API-TEMPLATE
 $ npm install
 $ node app.js
 ```
